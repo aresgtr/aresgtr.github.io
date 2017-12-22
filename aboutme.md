@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About me 关于我
+subtitle: Let's have a talk at the coffee shop in Wanda Plaza
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Qi Zhang. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
