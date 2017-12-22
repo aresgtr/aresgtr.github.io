@@ -17,7 +17,7 @@ baseurl: ""
 title: Qi Zhang Personal
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Hey, welcome! Come and take a seat!
 
 # --- Navigation bar options --- #
 
@@ -55,14 +55,14 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  name: Qi Zhang
+  email: "zhangqi950313@gmail.com"
+  facebook: 张琦
+  github: aresgtr
+  twitter: Not Available at the Moment
+  reddit: Not Available at the Moment
+  google-plus: Not Available at the Moment
+  linkedin: 张琦
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -70,7 +70,7 @@ author:
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
+  steam: ARESGTR
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
 
