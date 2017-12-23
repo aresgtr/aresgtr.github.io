@@ -2,15 +2,21 @@
 layout: page
 title: About me 关于我
 subtitle: Let's have a talk at the coffee shop in Wanda Plaza
+bigimg: /img/pic05.webp
 ---
 
-My name is Qi Zhang. I have the following qualities:
+My name is Qi Zhang.
+Born in T'ang Shan, China, and live in Vancouver, Canada.
+I am an electrical engineering student at the University of British Columbia.
+I am a car enthusiast. I believe JDMs are the best.
+Yes Initial D.
+Coding is interesting, especially when it compiles.
+Eager to help people and change the future, rather than selling sugar water.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
-### my history
+### My Resume
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be determine
