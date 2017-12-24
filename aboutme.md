@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me 关于我
-subtitle: Let's have a talk at the coffee shop in Wanda Plaza
+subtitle: Let's have a talk at the coffee shop in T'ang Shan Wanda Plaza
 bigimg: /img/pic05.webp
 ---
 
