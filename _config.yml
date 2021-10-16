@@ -24,7 +24,7 @@ description: Qi's Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me 个人简历: "aboutme"
+  About Me 关于我: "aboutme"
   Resources 资源库:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
