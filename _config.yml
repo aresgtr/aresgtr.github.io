@@ -26,7 +26,7 @@ description: Qi's Personal Website
 navbar-links:
   关于我: "aboutme"
   数据分析笔记:
-    - R Cheat Sheet: "https://github.com/aresgtr/Personal-Tools/blob/main/R%20Cheat%20Sheet.md"
+    - R Cheat Sheet: "internal_posts/RCheatSheet.md"
   外链:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
