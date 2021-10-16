@@ -14,11 +14,11 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Qi Zhang
+title: ZHANG, Qi
 
 
 # Short description of your site
-description: Hey, welcome! Come and take a seat!
+description: Qi's Personal Website
 
 # --- Navigation bar options --- #
 
@@ -56,7 +56,7 @@ footer-img: "/img/bgimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Qi Zhang
+  name: ZHANG, Qi
   email: "zhangqi950313@gmail.com"
   facebook: qi.zhang.98031
   github: aresgtr
