@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Udacity 全栈开发 Capstone 项目
-tags: [python]
+tags: [python, web开发]
 ---
 
 # Udacity 全栈开发 Capstone 项目
