@@ -1,45 +1,27 @@
 ---
 layout: page
-title: About me 关于我
-subtitle: Let's have a talk at the coffee shop in T'ang Shan Wanda Plaza
+title: About me 个人简历
+subtitle: 毕业于香港科技大学和不列颠哥伦比亚大学的终身学习者
 bigimg: /img/pic05.webp
 ---
 
-My name is Qi Zhang.
+## 教育经历
 
-Born in T'ang Shan, China, and live in Vancouver, Canada.
+*2021年01月 - 2021年12月*
 
-I am an electrical engineering student at the University of British Columbia.
+**香港科技大学** 社会科学 硕士
 
-I am a car enthusiast. I believe JDMs are the best.
+---
 
-Yes Initial D.
+*2015年08月 - 2015年08月*
 
-Coding is interesting, especially when it compiles.
+**北京大学** 暑期交换 本科
 
-Eager to help people and change the future, rather than selling sugar water.
+---
 
-What else do you need?
+*2013年09月 - 2018年05月*
 
-我叫张琦
-
-生于唐山，住在温哥华
-
-电子工程学生，就读于卑诗大学（不列颠哥伦比亚大学）
-
-喜欢车，喜欢JDM
-
-没错，头文字D是我最爱
-
-喜欢编程，尤其是程序不报错的时候
-
-理想就是改变世界，而不是卖糖水
-
-你还想知道什么？
-
-
-
-### My Resume
+**不列颠哥伦比亚大学** 电子工程，辅修商科 本科
 
 **Coding Language and Platforms**
 
